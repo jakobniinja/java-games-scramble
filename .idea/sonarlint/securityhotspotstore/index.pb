@@ -16,3 +16,5 @@ d
 4src/main/java/annette/godtland/MyStringsMethods.java,a\f\af2f47d883f61c6036298b7c28502e5cae98cd27
 `
 0src/main/java/annette/godtland/WordScramble.java,5\b\5b6a54cd348ed6c449c60bc410202f461ede73f4
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
